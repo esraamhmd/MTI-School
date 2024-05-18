@@ -14,6 +14,10 @@ This repository contains the source code and resources for a school management s
 ![Screenshot_1](https://github.com/esraamhmd/MTI-School/assets/145714762/0d3b3a43-cb5d-4ed7-98bc-81c77fa72da8)
 ![Screenshot_2](https://github.com/esraamhmd/MTI-School/assets/145714762/cac52b74-ba6f-490d-aaa2-0d3a64b7745b)
 
+## Documentations
+
+[project school db.pdf](https://github.com/esraamhmd/MTI-School/files/15365575/project.school.db.pdf)
+
 ## Getting Started
 
 ### Prerequisites
