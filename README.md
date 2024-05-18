@@ -10,8 +10,9 @@ This repository contains the source code and resources for a school management s
 - Database integration
 
 ## Screenshots
-![Screenshot_2](https://github.com/esraamhmd/school-system/assets/145714762/8c4300bf-b04b-4ab2-a36f-f19b4ee3a975)
-![Screenshot_1](https://github.com/esraamhmd/school-system/assets/145714762/c152fc01-4b9d-4703-86cb-318ddee3465f)
+
+![Screenshot_1](https://github.com/esraamhmd/MTI-School/assets/145714762/0d3b3a43-cb5d-4ed7-98bc-81c77fa72da8)
+![Screenshot_2](https://github.com/esraamhmd/MTI-School/assets/145714762/cac52b74-ba6f-490d-aaa2-0d3a64b7745b)
 
 ## Getting Started
 
