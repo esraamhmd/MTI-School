@@ -28,3 +28,9 @@ This repository contains the source code and resources for a school management s
 1. Clone the repository:
    ```sh
    git clone https://github.com/esraamhmd/MTI-School.git
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
