@@ -1,4 +1,4 @@
-# 🏫 MTI School — Database Management System
+# 🏫 MTI School - Database Management System
 
 <div align="center">
 
